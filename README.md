@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+
+### My Name is Érico
+
+<div align="center">
+    <img height="200px" src="https://github.com/ericomonteiro/ericomonteiro/blob/main/assets/me.png?raw=true" alt="picture">
+</div>
 
 <!--
 **ericomonteiro/ericomonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
